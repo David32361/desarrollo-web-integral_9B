@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal del Equipo 5</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="contenedor">
+            <h1>Portal del Equipo 5</h1>
+            <p>Demostración práctica de GitHub Flow en Acción</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="equipo">
+            <h2>Nuestro Equipo de Desarrollo</h2>
+
+            <p class="descripcion">
+                Bienvenido a nuestra página web colaborativa. Este sitio fue
+                construido utilizando Git y GitHub, aplicando buenas prácticas
+                de revisión de código mediante Pull Requests y GitHub Flow.
+            </p>
+
+            <div class="tarjetas">
+
+                <div class="tarjeta">
+                    <h3>Nombre:</h3>
+                    <p>Jared David Pérez Mendoza</p>
+                    <span>ROL: LÍDER / INTEGRADOR</span>
+                </div>
+
+                <div class="tarjeta">
+                    <h3>Nombre:</h3>
+                    <p>David Martínez Polvadera</p>
+                    <span>ROL: DISEÑADOR CSS</span>
+                </div>
+
+                <div class="tarjeta">
+                    <h3>Nombre:</h3>
+                    <p>Mariana Inés Gutiérrez Martín</p>
+                    <span>ROL: REDACTORA HTML</span>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            © 2026 - Clase de Git y GitHub Flow. Práctica educativa paso a paso.
+        </p>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>
